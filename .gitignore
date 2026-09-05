@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.apk
+report.json
+.venv/
+.DS_Store
